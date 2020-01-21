@@ -1,0 +1,17 @@
+C:\Gotop-VB2008版\VB2008\ch8\範例程式檔\二十四節氣\二十四節氣\obj\Debug\ResolveAssemblyReference.cache
+C:\Gotop-VB2008版\VB2008\ch8\範例程式檔\二十四節氣\二十四節氣\obj\Debug\WindowsApplication1.Resources.resources
+C:\Gotop-VB2008版\VB2008\ch8\範例程式檔\二十四節氣\二十四節氣\obj\Debug\二十四節氣.vbproj.GenerateResource.Cache
+C:\Gotop-VB2008版\VB2008\ch8\範例程式檔\二十四節氣\二十四節氣\bin\Debug\二十四節氣.exe
+C:\Gotop-VB2008版\VB2008\ch8\範例程式檔\二十四節氣\二十四節氣\bin\Debug\二十四節氣.pdb
+C:\Gotop-VB2008版\VB2008\ch8\範例程式檔\二十四節氣\二十四節氣\bin\Debug\二十四節氣.xml
+C:\Gotop-VB2008版\VB2008\ch8\範例程式檔\二十四節氣\二十四節氣\obj\Debug\二十四節氣.exe
+C:\Gotop-VB2008版\VB2008\ch8\範例程式檔\二十四節氣\二十四節氣\obj\Debug\二十四節氣.xml
+C:\Gotop-VB2008版\VB2008\ch8\範例程式檔\二十四節氣\二十四節氣\obj\Debug\二十四節氣.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\二十四節氣\obj\Debug\二十四節氣.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\二十四節氣\obj\Debug\二十四節氣.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\二十四節氣\obj\Debug\二十四節氣.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\二十四節氣\bin\Debug\二十四節氣.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\二十四節氣\bin\Debug\二十四節氣.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\二十四節氣\bin\Debug\二十四節氣.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\二十四節氣\obj\Debug\WindowsApplication1.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\二十四節氣\obj\Debug\二十四節氣.vbproj.GenerateResource.Cache

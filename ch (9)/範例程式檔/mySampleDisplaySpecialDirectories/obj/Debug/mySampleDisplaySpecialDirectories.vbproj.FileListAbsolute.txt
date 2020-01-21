@@ -1,0 +1,9 @@
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplaySpecialDirectories\bin\Debug\mySampleDisplaySpecialDirectories.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplaySpecialDirectories\bin\Debug\mySampleDisplaySpecialDirectories.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplaySpecialDirectories\bin\Debug\mySampleDisplaySpecialDirectories.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplaySpecialDirectories\obj\Debug\WindowsApplication1.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplaySpecialDirectories\obj\Debug\WindowsApplication1.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplaySpecialDirectories\obj\Debug\mySampleDisplaySpecialDirectories.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplaySpecialDirectories\obj\Debug\mySampleDisplaySpecialDirectories.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplaySpecialDirectories\obj\Debug\mySampleDisplaySpecialDirectories.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplaySpecialDirectories\obj\Debug\mySampleDisplaySpecialDirectories.pdb

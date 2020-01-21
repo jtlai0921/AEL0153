@@ -1,0 +1,32 @@
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\bin\Debug\第二個程式.exe
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\bin\Debug\第二個程式.pdb
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\bin\Debug\第二個程式.xml
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Debug\第二個程式.Form1.resources
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Debug\第二個程式.Resources.resources
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Debug\第二個程式.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Debug\第二個程式.exe
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Debug\第二個程式.xml
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Debug\第二個程式.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch1\第二個程式\bin\Debug\第二個程式.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch1\第二個程式\bin\Debug\第二個程式.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch1\第二個程式\bin\Debug\第二個程式.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch1\第二個程式\obj\Debug\ResolveAssemblyReference.cache
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.Form1.resources
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.Resources.resources
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.vbproj.GenerateResource.Cache
+E:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.exe
+E:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.xml
+E:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.pdb
+E:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\bin\Debug\第二個程式.exe
+E:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\bin\Debug\第二個程式.pdb
+E:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\bin\Debug\第二個程式.xml
+E:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.Form1.resources
+E:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.Resources.resources
+E:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.vbproj.GenerateResource.Cache
+F:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.exe
+F:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.xml
+F:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch1\第二個程式\obj\Debug\第二個程式.pdb

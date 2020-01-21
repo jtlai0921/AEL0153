@@ -1,0 +1,12 @@
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\bin\Debug\控制項陣列-數獨應用.exe
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\bin\Debug\控制項陣列-數獨應用.pdb
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\bin\Debug\控制項陣列-數獨應用.xml
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\obj\x86\Debug\控制項陣列-數獨應用.vbproj.GenerateResource.Cache
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\obj\x86\Debug\控制項陣列-數獨應用.exe
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\obj\x86\Debug\控制項陣列-數獨應用.xml
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\obj\x86\Debug\控制項陣列-數獨應用.pdb
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\obj\x86\Debug\控制項陣列-數獨應用.exe
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\obj\x86\Debug\控制項陣列-數獨應用.xml
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\控制項陣列-數獨應用\obj\x86\Debug\控制項陣列-數獨應用.pdb

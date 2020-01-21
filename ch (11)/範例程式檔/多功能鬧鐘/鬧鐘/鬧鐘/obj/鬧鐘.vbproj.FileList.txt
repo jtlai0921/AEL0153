@@ -1,0 +1,11 @@
+bin\Debug\鬧鐘.exe
+bin\Debug\鬧鐘.pdb
+bin\Debug\鬧鐘.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\鬧鐘.Form1.resources
+obj\Debug\鬧鐘.Resources.resources
+obj\Debug\鬧鐘.vbproj.GenerateResource.Cache
+obj\Debug\鬧鐘.exe
+obj\Debug\鬧鐘.xml
+obj\Debug\鬧鐘.pdb
+obj\Debug\鬧鐘.Form2.resources

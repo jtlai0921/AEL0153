@@ -1,0 +1,9 @@
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myReadWriteSample\bin\Debug\myReadWriteSample.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myReadWriteSample\bin\Debug\myReadWriteSample.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myReadWriteSample\bin\Debug\myReadWriteSample.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myReadWriteSample\obj\Debug\myReadWriteSample.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myReadWriteSample\obj\Debug\myReadWriteSample.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myReadWriteSample\obj\Debug\myReadWriteSample.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myReadWriteSample\obj\Debug\myReadWriteSample.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myReadWriteSample\obj\Debug\myReadWriteSample.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myReadWriteSample\obj\Debug\myReadWriteSample.pdb

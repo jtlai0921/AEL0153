@@ -1,0 +1,10 @@
+E:\jack\vb 2005 版\Problem2子題1\Problem2子題1\obj\Debug\ResolveAssemblyReference.cache
+E:\jack\vb 2005 版\Problem2子題1\Problem2子題1\obj\Debug\Problem2子題1.Form1.resources
+E:\jack\vb 2005 版\Problem2子題1\Problem2子題1\obj\Debug\Problem2子題1.Resources.resources
+E:\jack\vb 2005 版\Problem2子題1\Problem2子題1\obj\Debug\Problem2子題1.vbproj.GenerateResource.Cache
+E:\jack\vb 2005 版\Problem2子題1\Problem2子題1\bin\Debug\Problem2子題1.exe
+E:\jack\vb 2005 版\Problem2子題1\Problem2子題1\bin\Debug\Problem2子題1.pdb
+E:\jack\vb 2005 版\Problem2子題1\Problem2子題1\bin\Debug\Problem2子題1.xml
+E:\jack\vb 2005 版\Problem2子題1\Problem2子題1\obj\Debug\Problem2子題1.exe
+E:\jack\vb 2005 版\Problem2子題1\Problem2子題1\obj\Debug\Problem2子題1.xml
+E:\jack\vb 2005 版\Problem2子題1\Problem2子題1\obj\Debug\Problem2子題1.pdb

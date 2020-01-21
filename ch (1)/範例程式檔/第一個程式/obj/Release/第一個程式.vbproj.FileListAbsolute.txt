@@ -1,0 +1,12 @@
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\第一個程式\bin\Release\第一個程式.exe
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\第一個程式\bin\Release\第一個程式.pdb
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\第一個程式\bin\Release\第一個程式.xml
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\第一個程式\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\第一個程式\obj\Release\第一個程式.Resources.resources
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\第一個程式\obj\Release\第一個程式.vbproj.GenerateResource.Cache
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\第一個程式\obj\Release\第一個程式.exe
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\第一個程式\obj\Release\第一個程式.xml
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\第一個程式\obj\Release\第一個程式.pdb
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap1\第一個程式\obj\Release\第一個程式.exe
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap1\第一個程式\obj\Release\第一個程式.xml
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap1\第一個程式\obj\Release\第一個程式.pdb

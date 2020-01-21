@@ -1,0 +1,32 @@
+C:\Users\admin\Desktop\2014-0119\VB2010-Gotop\ch (6)\範例程式檔\期中考成績單\bin\Debug\期中考成績單.exe
+C:\Users\admin\Desktop\2014-0119\VB2010-Gotop\ch (6)\範例程式檔\期中考成績單\bin\Debug\期中考成績單.pdb
+C:\Users\admin\Desktop\2014-0119\VB2010-Gotop\ch (6)\範例程式檔\期中考成績單\bin\Debug\期中考成績單.xml
+C:\Users\admin\Desktop\2014-0119\VB2010-Gotop\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2014-0119\VB2010-Gotop\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\2014-0119\VB2010-Gotop\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\2014-0119\VB2010-Gotop\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\2014-0119\VB2010-Gotop\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\2014-0119\VB2010-Gotop\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.exe
+C:\Users\admin\Desktop\2014-0119\VB2010-Gotop\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.xml
+C:\Users\admin\Desktop\2014-0119\VB2010-Gotop\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.pdb
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.exe
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.xml
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.pdb
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\bin\Debug\期中考成績單.exe
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\bin\Debug\期中考成績單.pdb
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\bin\Debug\期中考成績單.xml
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.vbproj.GenerateResource.Cache
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.exe
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.xml
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.pdb
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.exe
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.xml
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.pdb
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (6)\範例程式檔\期中考成績單\bin\Debug\期中考成績單.exe
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (6)\範例程式檔\期中考成績單\bin\Debug\期中考成績單.pdb
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (6)\範例程式檔\期中考成績單\bin\Debug\期中考成績單.xml
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\WindowsApplication1.Form1.resources
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (6)\範例程式檔\期中考成績單\obj\x86\Debug\期中考成績單.vbproj.GenerateResource.Cache

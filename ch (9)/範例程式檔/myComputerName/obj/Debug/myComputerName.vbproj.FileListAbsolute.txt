@@ -1,0 +1,12 @@
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myComputerName\bin\Debug\myComputerName.exe
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myComputerName\bin\Debug\myComputerName.pdb
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myComputerName\bin\Debug\myComputerName.xml
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myComputerName\obj\Debug\myComputerName.Form1.resources
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myComputerName\obj\Debug\myComputerName.Resources.resources
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myComputerName\obj\Debug\myComputerName.vbproj.GenerateResource.Cache
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myComputerName\obj\Debug\myComputerName.exe
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myComputerName\obj\Debug\myComputerName.xml
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myComputerName\obj\Debug\myComputerName.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myComputerName\obj\Debug\myComputerName.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myComputerName\obj\Debug\myComputerName.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myComputerName\obj\Debug\myComputerName.pdb

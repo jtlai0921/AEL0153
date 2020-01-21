@@ -1,0 +1,20 @@
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipBoard_image例\myClipBoard_image例\bin\Debug\myClipBoard_image例.exe.config
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipBoard_image例\myClipBoard_image例\bin\Debug\myClipBoard_image例.exe
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipBoard_image例\myClipBoard_image例\bin\Debug\myClipBoard_image例.pdb
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipBoard_image例\myClipBoard_image例\bin\Debug\myClipBoard_image例.xml
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.Form1.resources
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.Resources.resources
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.vbproj.GenerateResource.Cache
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.exe
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.xml
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipBoard_image例\myClipBoard_image例\bin\Debug\myClipBoard_image例.exe.config
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipBoard_image例\myClipBoard_image例\bin\Debug\myClipBoard_image例.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipBoard_image例\myClipBoard_image例\bin\Debug\myClipBoard_image例.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipBoard_image例\myClipBoard_image例\bin\Debug\myClipBoard_image例.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipBoard_image例\myClipBoard_image例\obj\Debug\myClipBoard_image例.vbproj.GenerateResource.Cache

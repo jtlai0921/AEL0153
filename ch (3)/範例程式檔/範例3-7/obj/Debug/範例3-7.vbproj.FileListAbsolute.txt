@@ -1,0 +1,20 @@
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\範例3-7\bin\Debug\範例3-7.exe
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\範例3-7\bin\Debug\範例3-7.pdb
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\範例3-7\bin\Debug\範例3-7.xml
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\範例3-7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\範例3-7\obj\Debug\範例3_7.Resources.resources
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\範例3-7\obj\Debug\範例3-7.vbproj.GenerateResource.Cache
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\範例3-7\obj\Debug\範例3-7.exe
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\範例3-7\obj\Debug\範例3-7.xml
+C:\Documents and Settings\garfi\Local Settings\Application Data\Temporary Projects\範例3-7\obj\Debug\範例3-7.pdb
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-7\obj\Debug\範例3-7.exe
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-7\obj\Debug\範例3-7.xml
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-7\obj\Debug\範例3-7.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (3)\範例程式檔\範例3-7\obj\Debug\範例3-7.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (3)\範例程式檔\範例3-7\obj\Debug\範例3-7.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (3)\範例程式檔\範例3-7\obj\Debug\範例3-7.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (3)\範例程式檔\範例3-7\bin\Debug\範例3-7.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (3)\範例程式檔\範例3-7\bin\Debug\範例3-7.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (3)\範例程式檔\範例3-7\bin\Debug\範例3-7.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (3)\範例程式檔\範例3-7\obj\Debug\範例3_7.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (3)\範例程式檔\範例3-7\obj\Debug\範例3-7.vbproj.GenerateResource.Cache

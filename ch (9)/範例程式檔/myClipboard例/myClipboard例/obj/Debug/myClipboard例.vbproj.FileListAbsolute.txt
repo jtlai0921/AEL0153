@@ -1,0 +1,20 @@
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipboard例\myClipboard例\bin\Debug\myClipboard例.exe.config
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipboard例\myClipboard例\bin\Debug\myClipboard例.exe
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipboard例\myClipboard例\bin\Debug\myClipboard例.pdb
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipboard例\myClipboard例\bin\Debug\myClipboard例.xml
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipboard例\myClipboard例\obj\Debug\myClipboard例.Resources.resources
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipboard例\myClipboard例\obj\Debug\myClipboard例.vbproj.GenerateResource.Cache
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipboard例\myClipboard例\obj\Debug\myClipboard例.exe
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipboard例\myClipboard例\obj\Debug\myClipboard例.xml
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipboard例\myClipboard例\obj\Debug\myClipboard例.pdb
+F:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\myClipboard例\myClipboard例\obj\Debug\myClipboard例.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipboard例\myClipboard例\bin\Debug\myClipboard例.exe.config
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipboard例\myClipboard例\obj\Debug\myClipboard例.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipboard例\myClipboard例\obj\Debug\myClipboard例.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipboard例\myClipboard例\obj\Debug\myClipboard例.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipboard例\myClipboard例\bin\Debug\myClipboard例.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipboard例\myClipboard例\bin\Debug\myClipboard例.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipboard例\myClipboard例\bin\Debug\myClipboard例.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipboard例\myClipboard例\obj\Debug\myClipboard例.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipboard例\myClipboard例\obj\Debug\myClipboard例.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\myClipboard例\myClipboard例\obj\Debug\myClipboard例.vbproj.GenerateResource.Cache

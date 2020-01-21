@@ -1,0 +1,64 @@
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多媒體播放機\obj\Debug\Interop.WMPLib.dll
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多媒體播放機\obj\Debug\AxInterop.WMPLib.dll
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.vbproj.ResolveComReference.cache
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\obj\Debug\Interop.WMPLib.dll
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\obj\Debug\AxInterop.WMPLib.dll
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.vbproj.ResolveComReference.cache
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\bin\Debug\多媒體播放機.exe
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\bin\Debug\多媒體播放機.pdb
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\bin\Debug\多媒體播放機.xml
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\bin\Debug\Interop.WMPLib.dll
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\bin\Debug\AxInterop.WMPLib.dll
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\obj\Debug\ResolveAssemblyReference.cache
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\obj\Debug\WindowsApplication1.Form1.resources
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\obj\Debug\WindowsApplication1.Resources.resources
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.vbproj.GenerateResource.Cache
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.exe
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.xml
+C:\vb2008book\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多媒體播放機\obj\Debug\Interop.WMPLib.dll
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多媒體播放機\obj\Debug\AxInterop.WMPLib.dll
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.vbproj.ResolveComReference.cache
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.vbproj.ResolveComReference.cache
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.exe
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.xml
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\bin\Debug\多媒體播放機.exe
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\bin\Debug\多媒體播放機.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\bin\Debug\多媒體播放機.xml
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多媒體播放機\obj\Debug\多媒體播放機.vbproj.GenerateResource.Cache
+C:\Users\Bibbian\Desktop\學會寫程式\Trans\第11章(缺)\多媒體播放機\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bibbian\Desktop\學會寫程式\Trans\第11章(缺)\多媒體播放機\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bibbian\Desktop\學會寫程式\Trans\第11章(缺)\多媒體播放機\obj\Debug\多媒體播放機.vbproj.ResolveComReference.cache
+C:\Users\Bibbian\Desktop\學會寫程式\Trans\第11章(缺)\多媒體播放機\obj\Debug\多媒體播放機.exe
+C:\Users\Bibbian\Desktop\學會寫程式\Trans\第11章(缺)\多媒體播放機\obj\Debug\多媒體播放機.xml
+C:\Users\Bibbian\Desktop\學會寫程式\Trans\第11章(缺)\多媒體播放機\obj\Debug\多媒體播放機.pdb
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\obj\Debug\Interop.WMPLib.dll
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\obj\Debug\AxInterop.WMPLib.dll
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\obj\Debug\多媒體播放機.vbproj.ResolveComReference.cache
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\obj\Debug\多媒體播放機.exe
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\obj\Debug\多媒體播放機.xml
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\obj\Debug\多媒體播放機.pdb
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\bin\Debug\多媒體播放機.exe
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\bin\Debug\多媒體播放機.pdb
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\bin\Debug\多媒體播放機.xml
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\bin\Debug\Interop.WMPLib.dll
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\bin\Debug\AxInterop.WMPLib.dll
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\obj\Debug\WindowsApplication1.Form1.resources
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\obj\Debug\WindowsApplication1.Resources.resources
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多媒體播放機\obj\Debug\多媒體播放機.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\多媒體播放機\obj\Debug\Interop.WMPLib.dll
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\多媒體播放機\obj\Debug\AxInterop.WMPLib.dll
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\多媒體播放機\obj\Debug\多媒體播放機.vbproj.ResolveComReference.cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\多媒體播放機\obj\Debug\多媒體播放機.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\多媒體播放機\obj\Debug\多媒體播放機.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\多媒體播放機\obj\Debug\多媒體播放機.pdb

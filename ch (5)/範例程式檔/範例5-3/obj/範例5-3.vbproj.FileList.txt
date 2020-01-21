@@ -1,0 +1,10 @@
+bin\Debug\範例５－３.exe
+bin\Debug\範例５－３.pdb
+bin\Debug\範例５－３.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\範例５_３.Form1.resources
+obj\Debug\範例５_３.Resources.resources
+obj\Debug\範例５－３.vbproj.GenerateResource.Cache
+obj\Debug\範例５－３.exe
+obj\Debug\範例５－３.xml
+obj\Debug\範例５－３.pdb

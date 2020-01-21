@@ -1,0 +1,32 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\變色跳跳球\bin\Debug\變色跳跳球.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\變色跳跳球\bin\Debug\變色跳跳球.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\變色跳跳球\bin\Debug\變色跳跳球.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\變色跳跳球\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\變色跳跳球\obj\Debug\變色跳跳球.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\變色跳跳球\obj\Debug\變色跳跳球.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\變色跳跳球\obj\Debug\變色跳跳球.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\變色跳跳球\obj\Debug\變色跳跳球.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\變色跳跳球\obj\Debug\變色跳跳球.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\變色跳跳球\obj\Debug\變色跳跳球.pdb
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\obj\Debug\變色跳跳球.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\obj\Debug\變色跳跳球.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\obj\Debug\變色跳跳球.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\obj\Debug\變色跳跳球.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\obj\Debug\變色跳跳球.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\obj\Debug\變色跳跳球.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\bin\Debug\變色跳跳球.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\bin\Debug\變色跳跳球.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\bin\Debug\變色跳跳球.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\obj\Debug\ResolveAssemblyReference.cache
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\obj\Debug\變色跳跳球.Form1.resources
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\obj\Debug\變色跳跳球.Resources.resources
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\變色跳跳球\obj\Debug\變色跳跳球.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\變色跳跳球\obj\Debug\變色跳跳球.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\變色跳跳球\obj\Debug\變色跳跳球.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\變色跳跳球\obj\Debug\變色跳跳球.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\變色跳跳球\bin\Debug\變色跳跳球.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\變色跳跳球\bin\Debug\變色跳跳球.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\變色跳跳球\bin\Debug\變色跳跳球.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\變色跳跳球\obj\Debug\變色跳跳球.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\變色跳跳球\obj\Debug\變色跳跳球.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\變色跳跳球\obj\Debug\變色跳跳球.vbproj.GenerateResource.Cache

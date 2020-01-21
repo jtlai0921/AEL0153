@@ -1,0 +1,12 @@
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\bin\Debug\九九乘法表.exe
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\bin\Debug\九九乘法表.pdb
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\bin\Debug\九九乘法表.xml
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\obj\x86\Debug\九九乘法表.vbproj.GenerateResource.Cache
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\obj\x86\Debug\九九乘法表.exe
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\obj\x86\Debug\九九乘法表.xml
+F:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\obj\x86\Debug\九九乘法表.pdb
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\obj\x86\Debug\九九乘法表.exe
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\obj\x86\Debug\九九乘法表.xml
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (6)\範例程式檔\九九乘法表\obj\x86\Debug\九九乘法表.pdb

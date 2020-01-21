@@ -1,0 +1,10 @@
+G:\1.  vb2012 book working\102模擬試題解題 - to 許老師\Program2  vb 2005 版\Problem2子題2\Problem2子題2\bin\Debug\Problem2子題2.exe
+G:\1.  vb2012 book working\102模擬試題解題 - to 許老師\Program2  vb 2005 版\Problem2子題2\Problem2子題2\bin\Debug\Problem2子題2.pdb
+G:\1.  vb2012 book working\102模擬試題解題 - to 許老師\Program2  vb 2005 版\Problem2子題2\Problem2子題2\bin\Debug\Problem2子題2.xml
+G:\1.  vb2012 book working\102模擬試題解題 - to 許老師\Program2  vb 2005 版\Problem2子題2\Problem2子題2\obj\Debug\ResolveAssemblyReference.cache
+G:\1.  vb2012 book working\102模擬試題解題 - to 許老師\Program2  vb 2005 版\Problem2子題2\Problem2子題2\obj\Debug\Problem2子題2.Form1.resources
+G:\1.  vb2012 book working\102模擬試題解題 - to 許老師\Program2  vb 2005 版\Problem2子題2\Problem2子題2\obj\Debug\Problem2子題2.Resources.resources
+G:\1.  vb2012 book working\102模擬試題解題 - to 許老師\Program2  vb 2005 版\Problem2子題2\Problem2子題2\obj\Debug\Problem2子題2.vbproj.GenerateResource.Cache
+G:\1.  vb2012 book working\102模擬試題解題 - to 許老師\Program2  vb 2005 版\Problem2子題2\Problem2子題2\obj\Debug\Problem2子題2.exe
+G:\1.  vb2012 book working\102模擬試題解題 - to 許老師\Program2  vb 2005 版\Problem2子題2\Problem2子題2\obj\Debug\Problem2子題2.xml
+G:\1.  vb2012 book working\102模擬試題解題 - to 許老師\Program2  vb 2005 版\Problem2子題2\Problem2子題2\obj\Debug\Problem2子題2.pdb

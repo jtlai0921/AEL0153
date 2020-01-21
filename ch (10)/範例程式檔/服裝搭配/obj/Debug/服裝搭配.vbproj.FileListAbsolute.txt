@@ -1,0 +1,38 @@
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\服裝搭配\bin\Debug\服裝搭配.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\服裝搭配\bin\Debug\服裝搭配.pdb
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\服裝搭配\bin\Debug\服裝搭配.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\服裝搭配\obj\Debug\ResolveAssemblyReference.cache
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\服裝搭配\obj\Debug\WindowsApplication1.Form1.resources
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\服裝搭配\obj\Debug\WindowsApplication1.Resources.resources
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\服裝搭配\obj\Debug\服裝搭配.vbproj.GenerateResource.Cache
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\服裝搭配\obj\Debug\服裝搭配.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\服裝搭配\obj\Debug\服裝搭配.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\服裝搭配\obj\Debug\服裝搭配.pdb
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\obj\Debug\服裝搭配.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\obj\Debug\服裝搭配.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\obj\Debug\服裝搭配.pdb
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\bin\Debug\服裝搭配.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\bin\Debug\服裝搭配.pdb
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\bin\Debug\服裝搭配.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\obj\Debug\ResolveAssemblyReference.cache
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\obj\Debug\WindowsApplication1.Form1.resources
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\obj\Debug\WindowsApplication1.Resources.resources
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\obj\Debug\服裝搭配.vbproj.GenerateResource.Cache
+C:\vb2008book\範例程式檔\ch10\服裝搭配\obj\Debug\服裝搭配.exe
+C:\vb2008book\範例程式檔\ch10\服裝搭配\obj\Debug\服裝搭配.xml
+C:\vb2008book\範例程式檔\ch10\服裝搭配\obj\Debug\服裝搭配.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\obj\Debug\服裝搭配.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\obj\Debug\服裝搭配.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\服裝搭配\obj\Debug\服裝搭配.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\服裝搭配\obj\Debug\服裝搭配.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\服裝搭配\obj\Debug\服裝搭配.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\服裝搭配\obj\Debug\服裝搭配.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\服裝搭配\bin\Debug\服裝搭配.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\服裝搭配\bin\Debug\服裝搭配.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\服裝搭配\bin\Debug\服裝搭配.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\服裝搭配\obj\Debug\WindowsApplication1.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\服裝搭配\obj\Debug\WindowsApplication1.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\服裝搭配\obj\Debug\服裝搭配.vbproj.GenerateResource.Cache
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (10)\範例程式檔\服裝搭配\obj\Debug\服裝搭配.exe
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (10)\範例程式檔\服裝搭配\obj\Debug\服裝搭配.xml
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (10)\範例程式檔\服裝搭配\obj\Debug\服裝搭配.pdb

@@ -1,0 +1,43 @@
+F:\學會寫程式VB2008\teacher CD-vb2005\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.exe
+F:\學會寫程式VB2008\teacher CD-vb2005\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.xml
+F:\學會寫程式VB2008\teacher CD-vb2005\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.pdb
+F:\學會寫程式VB2008\teacher CD-vb2005\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\bin\Debug\鬧鐘.exe
+F:\學會寫程式VB2008\teacher CD-vb2005\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\bin\Debug\鬧鐘.pdb
+F:\學會寫程式VB2008\teacher CD-vb2005\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\bin\Debug\鬧鐘.xml
+F:\學會寫程式VB2008\teacher CD-vb2005\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\ResolveAssemblyReference.cache
+F:\學會寫程式VB2008\teacher CD-vb2005\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.Form1.resources
+F:\學會寫程式VB2008\teacher CD-vb2005\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.Form2.resources
+F:\學會寫程式VB2008\teacher CD-vb2005\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.Resources.resources
+F:\學會寫程式VB2008\teacher CD-vb2005\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.vbproj.GenerateResource.Cache
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.pdb
+C:\vb2008book\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.exe
+C:\vb2008book\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.xml
+C:\vb2008book\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.exe
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.xml
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\bin\Debug\鬧鐘.exe
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\bin\Debug\鬧鐘.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\bin\Debug\鬧鐘.xml
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.Form1.resources
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.Form2.resources
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.Resources.resources
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch11\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.vbproj.GenerateResource.Cache
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.exe
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.xml
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.pdb
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多功能鬧鐘\鬧鐘\鬧鐘\bin\Debug\鬧鐘.exe
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多功能鬧鐘\鬧鐘\鬧鐘\bin\Debug\鬧鐘.pdb
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多功能鬧鐘\鬧鐘\鬧鐘\bin\Debug\鬧鐘.xml
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.Form1.resources
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.Form2.resources
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.Resources.resources
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\多功能鬧鐘\鬧鐘\鬧鐘\obj\Debug\鬧鐘.pdb

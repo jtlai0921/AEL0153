@@ -1,0 +1,18 @@
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\二十四節氣\bin\Debug\二十四節氣.exe
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\二十四節氣\bin\Debug\二十四節氣.pdb
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\二十四節氣\bin\Debug\二十四節氣.xml
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\二十四節氣.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\二十四節氣.exe
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\二十四節氣.xml
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\二十四節氣.pdb
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\二十四節氣.exe
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\二十四節氣.xml
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\二十四節氣.pdb
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\二十四節氣\bin\Debug\二十四節氣.exe
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\二十四節氣\bin\Debug\二十四節氣.pdb
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\二十四節氣\bin\Debug\二十四節氣.xml
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\WindowsApplication1.Form1.resources
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\二十四節氣\obj\x86\Debug\二十四節氣.vbproj.GenerateResource.Cache

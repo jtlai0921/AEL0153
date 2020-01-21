@@ -1,0 +1,9 @@
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\registryGetSetValue3\bin\Debug\registryGetSetValue3.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\registryGetSetValue3\bin\Debug\registryGetSetValue3.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\registryGetSetValue3\bin\Debug\registryGetSetValue3.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\registryGetSetValue3\obj\Debug\registryGetSetValue3.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\registryGetSetValue3\obj\Debug\registryGetSetValue3.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\registryGetSetValue3\obj\Debug\registryGetSetValue3.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\registryGetSetValue3\obj\Debug\registryGetSetValue3.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\registryGetSetValue3\obj\Debug\registryGetSetValue3.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\registryGetSetValue3\obj\Debug\registryGetSetValue3.pdb

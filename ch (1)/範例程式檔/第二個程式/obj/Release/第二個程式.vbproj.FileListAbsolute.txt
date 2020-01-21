@@ -1,0 +1,10 @@
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\bin\Release\第二個程式.exe
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\bin\Release\第二個程式.pdb
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\bin\Release\第二個程式.xml
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Release\第二個程式.Form1.resources
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Release\第二個程式.Resources.resources
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Release\第二個程式.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Release\第二個程式.exe
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Release\第二個程式.xml
+C:\Documents and Settings\Super\My Documents\Visual Studio 2008\Projects\chap1\第二個程式\obj\Release\第二個程式.pdb

@@ -1,0 +1,28 @@
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch13\拉霸\bin\Debug\拉霸.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch13\拉霸\bin\Debug\拉霸.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch13\拉霸\bin\Debug\拉霸.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch13\拉霸\obj\Debug\ResolveAssemblyReference.cache
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch13\拉霸\obj\Debug\WindowsApplication1.Form1.resources
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch13\拉霸\obj\Debug\WindowsApplication1.Resources.resources
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch13\拉霸\obj\Debug\拉霸.vbproj.GenerateResource.Cache
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch13\拉霸\obj\Debug\拉霸.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch13\拉霸\obj\Debug\拉霸.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch13\拉霸\obj\Debug\拉霸.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch13\拉霸\obj\Debug\拉霸.exe
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch13\拉霸\obj\Debug\拉霸.xml
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch13\拉霸\obj\Debug\拉霸.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch13\拉霸\bin\Debug\拉霸.exe
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch13\拉霸\bin\Debug\拉霸.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch13\拉霸\bin\Debug\拉霸.xml
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch13\拉霸\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch13\拉霸\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch13\拉霸\obj\Debug\拉霸.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (13)\範例程式檔\13-2 拉霸\obj\Debug\拉霸.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (13)\範例程式檔\13-2 拉霸\obj\Debug\拉霸.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (13)\範例程式檔\13-2 拉霸\obj\Debug\拉霸.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (13)\範例程式檔\13-2 拉霸\bin\Debug\拉霸.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (13)\範例程式檔\13-2 拉霸\bin\Debug\拉霸.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (13)\範例程式檔\13-2 拉霸\bin\Debug\拉霸.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (13)\範例程式檔\13-2 拉霸\obj\Debug\WindowsApplication1.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (13)\範例程式檔\13-2 拉霸\obj\Debug\WindowsApplication1.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (13)\範例程式檔\13-2 拉霸\obj\Debug\拉霸.vbproj.GenerateResource.Cache

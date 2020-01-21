@@ -1,0 +1,18 @@
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (7)\範例程式檔\傳址呼叫\bin\Debug\傳址呼叫.exe
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (7)\範例程式檔\傳址呼叫\bin\Debug\傳址呼叫.pdb
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (7)\範例程式檔\傳址呼叫\bin\Debug\傳址呼叫.xml
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\傳址呼叫.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\傳址呼叫.exe
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\傳址呼叫.xml
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\傳址呼叫.pdb
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\傳址呼叫.exe
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\傳址呼叫.xml
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\傳址呼叫.pdb
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\傳址呼叫\bin\Debug\傳址呼叫.exe
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\傳址呼叫\bin\Debug\傳址呼叫.pdb
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\傳址呼叫\bin\Debug\傳址呼叫.xml
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\WindowsApplication1.Form1.resources
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\傳址呼叫\obj\x86\Debug\傳址呼叫.vbproj.GenerateResource.Cache

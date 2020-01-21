@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "鬧鐘", "鬧鐘\鬧鐘.vbproj", "{5729C862-6794-4981-B2FF-03CE4A92060F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5729C862-6794-4981-B2FF-03CE4A92060F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5729C862-6794-4981-B2FF-03CE4A92060F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5729C862-6794-4981-B2FF-03CE4A92060F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5729C862-6794-4981-B2FF-03CE4A92060F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\obj\Debug\範例5-1.exe
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\obj\Debug\範例5-1.xml
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\obj\Debug\範例5-1.pdb

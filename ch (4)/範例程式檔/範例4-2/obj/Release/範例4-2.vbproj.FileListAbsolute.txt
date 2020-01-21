@@ -1,0 +1,9 @@
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap4\範例4-2\bin\Release\範例4-2.exe
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap4\範例4-2\bin\Release\範例4-2.pdb
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap4\範例4-2\bin\Release\範例4-2.xml
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap4\範例4-2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap4\範例4-2\obj\Release\範例4_2.Resources.resources
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap4\範例4-2\obj\Release\範例4-2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap4\範例4-2\obj\Release\範例4-2.exe
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap4\範例4-2\obj\Release\範例4-2.xml
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap4\範例4-2\obj\Release\範例4-2.pdb

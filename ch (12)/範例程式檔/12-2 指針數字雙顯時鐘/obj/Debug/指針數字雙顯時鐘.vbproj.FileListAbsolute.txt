@@ -1,0 +1,34 @@
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\bin\Debug\指針數字雙顯時鐘.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\bin\Debug\指針數字雙顯時鐘.pdb
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\bin\Debug\指針數字雙顯時鐘.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\ResolveAssemblyReference.cache
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\WindowsApplication1.Form1.resources
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\WindowsApplication1.Resources.resources
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.vbproj.GenerateResource.Cache
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.pdb
+C:\vb2008book\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.exe
+C:\vb2008book\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.xml
+C:\vb2008book\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.exe
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.xml
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\指針數字雙顯時鐘\bin\Debug\指針數字雙顯時鐘.exe
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\指針數字雙顯時鐘\bin\Debug\指針數字雙顯時鐘.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\指針數字雙顯時鐘\bin\Debug\指針數字雙顯時鐘.xml
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-2 指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-2 指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-2 指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-2 指針數字雙顯時鐘\bin\Debug\指針數字雙顯時鐘.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-2 指針數字雙顯時鐘\bin\Debug\指針數字雙顯時鐘.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-2 指針數字雙顯時鐘\bin\Debug\指針數字雙顯時鐘.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-2 指針數字雙顯時鐘\obj\Debug\WindowsApplication1.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-2 指針數字雙顯時鐘\obj\Debug\WindowsApplication1.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-2 指針數字雙顯時鐘\obj\Debug\指針數字雙顯時鐘.vbproj.GenerateResource.Cache

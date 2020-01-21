@@ -1,0 +1,12 @@
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\mySampleDisplayOsInfo\bin\Debug\mySampleDisplayOsInfo.exe
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\mySampleDisplayOsInfo\bin\Debug\mySampleDisplayOsInfo.pdb
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\mySampleDisplayOsInfo\bin\Debug\mySampleDisplayOsInfo.xml
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\mySampleDisplayOsInfo\obj\Debug\WindowsApplication1.Form1.resources
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\mySampleDisplayOsInfo\obj\Debug\WindowsApplication1.Resources.resources
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\mySampleDisplayOsInfo\obj\Debug\mySampleDisplayOsInfo.vbproj.GenerateResource.Cache
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\mySampleDisplayOsInfo\obj\Debug\mySampleDisplayOsInfo.exe
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\mySampleDisplayOsInfo\obj\Debug\mySampleDisplayOsInfo.xml
+J:\1.  vb2012 book working\1 章節彙整\Ch09-好用的新工具My\Prog\mySampleDisplayOsInfo\obj\Debug\mySampleDisplayOsInfo.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplayOsInfo\obj\Debug\mySampleDisplayOsInfo.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplayOsInfo\obj\Debug\mySampleDisplayOsInfo.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\mySampleDisplayOsInfo\obj\Debug\mySampleDisplayOsInfo.pdb

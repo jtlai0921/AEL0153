@@ -1,0 +1,36 @@
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\bin\Debug\電腦播音員.exe.config
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\obj\Debug\電腦播音員.Form1.resources
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\obj\Debug\電腦播音員.Resources.resources
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\obj\Debug\電腦播音員.vbproj.GenerateResource.Cache
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\bin\Debug\電腦播音員.exe
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\bin\Debug\電腦播音員.pdb
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\bin\Debug\電腦播音員.xml
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\obj\Debug\Interop.SpeechLib.dll
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\obj\Debug\電腦播音員.vbproj.ResolveComReference.cache
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\obj\Debug\電腦播音員.exe
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\obj\Debug\電腦播音員.xml
+J:\1.  vb2012 book working\元志VB2012\學會寫程式ch10-11\第11章(缺)\電腦播音員\電腦播音員\obj\Debug\電腦播音員.pdb
+J:\1.  vb2012 book working\1 章節彙整\學會寫程式ch10-11\第11章(2014-03-15OK)\電腦播音員\電腦播音員\bin\Debug\電腦播音員.exe.config
+J:\1.  vb2012 book working\1 章節彙整\學會寫程式ch10-11\第11章(2014-03-15OK)\電腦播音員\電腦播音員\obj\Debug\Interop.SpeechLib.dll
+J:\1.  vb2012 book working\1 章節彙整\學會寫程式ch10-11\第11章(2014-03-15OK)\電腦播音員\電腦播音員\obj\Debug\電腦播音員.vbproj.ResolveComReference.cache
+J:\1.  vb2012 book working\1 章節彙整\學會寫程式ch10-11\第11章(2014-03-15OK)\電腦播音員\電腦播音員\obj\Debug\電腦播音員.exe
+J:\1.  vb2012 book working\1 章節彙整\學會寫程式ch10-11\第11章(2014-03-15OK)\電腦播音員\電腦播音員\obj\Debug\電腦播音員.xml
+J:\1.  vb2012 book working\1 章節彙整\學會寫程式ch10-11\第11章(2014-03-15OK)\電腦播音員\電腦播音員\obj\Debug\電腦播音員.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\bin\Debug\電腦播音員.exe.config
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\Interop.SpeechLib.dll
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\電腦播音員.vbproj.ResolveComReference.cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\電腦播音員.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\電腦播音員.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\電腦播音員.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\bin\Debug\電腦播音員.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\bin\Debug\電腦播音員.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\bin\Debug\電腦播音員.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\電腦播音員.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\電腦播音員.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\電腦播音員.vbproj.GenerateResource.Cache
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (11)\範例程式檔\電腦播音員\電腦播音員\bin\Debug\電腦播音員.exe.config
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\Interop.SpeechLib.dll
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\電腦播音員.vbproj.ResolveComReference.cache
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\電腦播音員.exe
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\電腦播音員.xml
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔\ch (11)\範例程式檔\電腦播音員\電腦播音員\obj\Debug\電腦播音員.pdb

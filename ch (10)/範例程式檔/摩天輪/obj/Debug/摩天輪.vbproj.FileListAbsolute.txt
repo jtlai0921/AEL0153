@@ -1,0 +1,32 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\摩天輪\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\摩天輪\obj\Debug\摩天輪.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\摩天輪\obj\Debug\摩天輪.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\摩天輪\obj\Debug\摩天輪.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\摩天輪\bin\Debug\摩天輪.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\摩天輪\bin\Debug\摩天輪.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\摩天輪\bin\Debug\摩天輪.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\摩天輪\obj\Debug\摩天輪.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\摩天輪\obj\Debug\摩天輪.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\摩天輪\obj\Debug\摩天輪.pdb
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\obj\Debug\摩天輪.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\obj\Debug\摩天輪.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\obj\Debug\摩天輪.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\obj\Debug\摩天輪.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\obj\Debug\摩天輪.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\obj\Debug\摩天輪.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\bin\Debug\摩天輪.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\bin\Debug\摩天輪.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\bin\Debug\摩天輪.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\obj\Debug\ResolveAssemblyReference.cache
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\obj\Debug\摩天輪.Form1.resources
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\obj\Debug\摩天輪.Resources.resources
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\摩天輪\obj\Debug\摩天輪.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\摩天輪\obj\Debug\摩天輪.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\摩天輪\obj\Debug\摩天輪.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\摩天輪\obj\Debug\摩天輪.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\摩天輪\bin\Debug\摩天輪.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\摩天輪\bin\Debug\摩天輪.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\摩天輪\bin\Debug\摩天輪.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\摩天輪\obj\Debug\摩天輪.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\摩天輪\obj\Debug\摩天輪.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\摩天輪\obj\Debug\摩天輪.vbproj.GenerateResource.Cache

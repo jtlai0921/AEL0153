@@ -1,0 +1,32 @@
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\繪圖指令介紹\bin\Debug\繪圖指令介紹.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\繪圖指令介紹\bin\Debug\繪圖指令介紹.pdb
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\繪圖指令介紹\bin\Debug\繪圖指令介紹.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\繪圖指令介紹\obj\Debug\ResolveAssemblyReference.cache
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\繪圖指令介紹\obj\Debug\WindowsApplication1.Form1.resources
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\繪圖指令介紹\obj\Debug\WindowsApplication1.Resources.resources
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\繪圖指令介紹\obj\Debug\繪圖指令介紹.vbproj.GenerateResource.Cache
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\繪圖指令介紹\obj\Debug\繪圖指令介紹.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\繪圖指令介紹\obj\Debug\繪圖指令介紹.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\繪圖指令介紹\obj\Debug\繪圖指令介紹.pdb
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\obj\Debug\繪圖指令介紹.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\obj\Debug\繪圖指令介紹.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\obj\Debug\繪圖指令介紹.pdb
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\bin\Debug\繪圖指令介紹.exe
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\bin\Debug\繪圖指令介紹.pdb
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\bin\Debug\繪圖指令介紹.xml
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\obj\Debug\ResolveAssemblyReference.cache
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\obj\Debug\WindowsApplication1.Form1.resources
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\obj\Debug\WindowsApplication1.Resources.resources
+F:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\obj\Debug\繪圖指令介紹.vbproj.GenerateResource.Cache
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\obj\Debug\繪圖指令介紹.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\obj\Debug\繪圖指令介紹.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch10\繪圖指令介紹\obj\Debug\繪圖指令介紹.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\繪圖指令介紹\obj\Debug\繪圖指令介紹.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\繪圖指令介紹\obj\Debug\繪圖指令介紹.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\繪圖指令介紹\obj\Debug\繪圖指令介紹.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\繪圖指令介紹\bin\Debug\繪圖指令介紹.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\繪圖指令介紹\bin\Debug\繪圖指令介紹.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\繪圖指令介紹\bin\Debug\繪圖指令介紹.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\繪圖指令介紹\obj\Debug\WindowsApplication1.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\繪圖指令介紹\obj\Debug\WindowsApplication1.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (10)\範例程式檔\繪圖指令介紹\obj\Debug\繪圖指令介紹.vbproj.GenerateResource.Cache

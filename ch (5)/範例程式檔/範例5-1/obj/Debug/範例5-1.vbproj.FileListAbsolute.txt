@@ -1,0 +1,19 @@
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\obj\Debug\範例5-1.exe
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\obj\Debug\範例5-1.xml
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\obj\Debug\範例5-1.pdb
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\bin\Debug\範例5-1.exe
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\bin\Debug\範例5-1.pdb
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\bin\Debug\範例5-1.xml
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Super\My Documents\Visual Studio 2005\Projects\chap5\範例5-1\obj\Debug\範例5-1.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (5)\範例程式檔\範例5-1\obj\Debug\範例5-1.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (5)\範例程式檔\範例5-1\obj\Debug\範例5-1.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (5)\範例程式檔\範例5-1\obj\Debug\範例5-1.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (5)\範例程式檔\範例5-1\bin\Debug\範例5-1.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (5)\範例程式檔\範例5-1\bin\Debug\範例5-1.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (5)\範例程式檔\範例5-1\bin\Debug\範例5-1.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (5)\範例程式檔\範例5-1\obj\Debug\WindowsApplication1.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (5)\範例程式檔\範例5-1\obj\Debug\WindowsApplication1.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (5)\範例程式檔\範例5-1\obj\Debug\範例5-1.vbproj.GenerateResource.Cache

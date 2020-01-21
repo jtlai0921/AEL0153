@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\旋轉文字\bin\Debug\旋轉文字.exe
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\旋轉文字\bin\Debug\旋轉文字.pdb
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\旋轉文字\bin\Debug\旋轉文字.xml
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\旋轉文字\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\旋轉文字\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\旋轉文字\obj\x86\Debug\旋轉文字.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\旋轉文字\obj\x86\Debug\旋轉文字.exe
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\旋轉文字\obj\x86\Debug\旋轉文字.xml
+C:\Users\admin\Desktop\2014-Vb_book\VB2010-Gotop\ch (8)\範例程式檔\旋轉文字\obj\x86\Debug\旋轉文字.pdb
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\旋轉文字\obj\x86\Debug\旋轉文字.exe
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\旋轉文字\obj\x86\Debug\旋轉文字.xml
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (8)\範例程式檔\旋轉文字\obj\x86\Debug\旋轉文字.pdb

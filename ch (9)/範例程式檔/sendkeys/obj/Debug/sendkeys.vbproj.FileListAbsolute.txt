@@ -1,0 +1,21 @@
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\bin\Debug\sendkeys.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\bin\Debug\sendkeys.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\bin\Debug\sendkeys.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.pdb
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.exe
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.xml
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.pdb
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\bin\Debug\sendkeys.exe
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\bin\Debug\sendkeys.pdb
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\bin\Debug\sendkeys.xml
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.Form1.resources
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.Resources.resources
+F:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.vbproj.GenerateResource.Cache
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.exe
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.xml
+J:\1.  vb2012 book working\學會寫程式VB2013CD\範例程式檔(prepare)\ch (9)\範例程式檔\sendkeys\obj\Debug\sendkeys.pdb

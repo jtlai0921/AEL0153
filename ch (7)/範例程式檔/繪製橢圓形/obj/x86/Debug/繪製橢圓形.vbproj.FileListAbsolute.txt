@@ -1,0 +1,9 @@
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\繪製橢圓形\bin\Debug\繪製橢圓形.exe
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\繪製橢圓形\bin\Debug\繪製橢圓形.pdb
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\繪製橢圓形\bin\Debug\繪製橢圓形.xml
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\繪製橢圓形\obj\x86\Debug\WindowsApplication1.Form1.resources
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\繪製橢圓形\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\繪製橢圓形\obj\x86\Debug\繪製橢圓形.vbproj.GenerateResource.Cache
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\繪製橢圓形\obj\x86\Debug\繪製橢圓形.exe
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\繪製橢圓形\obj\x86\Debug\繪製橢圓形.xml
+J:\1.  vb2012 book working\漢榕vb2013CD Data\ch (7)\範例程式檔\繪製橢圓形\obj\x86\Debug\繪製橢圓形.pdb

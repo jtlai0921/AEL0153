@@ -1,0 +1,31 @@
+C:\vb2008book\範例程式檔\ch12\快餐店結帳\bin\Debug\快餐店結帳.exe
+C:\vb2008book\範例程式檔\ch12\快餐店結帳\bin\Debug\快餐店結帳.pdb
+C:\vb2008book\範例程式檔\ch12\快餐店結帳\bin\Debug\快餐店結帳.xml
+C:\vb2008book\範例程式檔\ch12\快餐店結帳\obj\Debug\ResolveAssemblyReference.cache
+C:\vb2008book\範例程式檔\ch12\快餐店結帳\obj\Debug\WindowsApplication1.Form1.resources
+C:\vb2008book\範例程式檔\ch12\快餐店結帳\obj\Debug\WindowsApplication1.Resources.resources
+C:\vb2008book\範例程式檔\ch12\快餐店結帳\obj\Debug\快餐店結帳.vbproj.GenerateResource.Cache
+C:\vb2008book\範例程式檔\ch12\快餐店結帳\obj\Debug\快餐店結帳.exe
+C:\vb2008book\範例程式檔\ch12\快餐店結帳\obj\Debug\快餐店結帳.xml
+C:\vb2008book\範例程式檔\ch12\快餐店結帳\obj\Debug\快餐店結帳.pdb
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\快餐店結帳\obj\Debug\快餐店結帳.exe
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\快餐店結帳\obj\Debug\快餐店結帳.xml
+G:\學會寫程式VB2008\teacherCD-vb2008\範例程式檔\ch12\快餐店結帳\obj\Debug\快餐店結帳.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\快餐店結帳\obj\Debug\快餐店結帳.exe
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\快餐店結帳\obj\Debug\快餐店結帳.xml
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\快餐店結帳\obj\Debug\快餐店結帳.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\快餐店結帳\bin\Debug\快餐店結帳.exe
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\快餐店結帳\bin\Debug\快餐店結帳.pdb
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\快餐店結帳\bin\Debug\快餐店結帳.xml
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\快餐店結帳\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\快餐店結帳\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Bibbian\Desktop\學會寫程式\範例程式檔\ch12\快餐店結帳\obj\Debug\快餐店結帳.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-3 快餐店結帳\obj\Debug\快餐店結帳.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-3 快餐店結帳\obj\Debug\快餐店結帳.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-3 快餐店結帳\obj\Debug\快餐店結帳.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-3 快餐店結帳\bin\Debug\快餐店結帳.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-3 快餐店結帳\bin\Debug\快餐店結帳.pdb
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-3 快餐店結帳\bin\Debug\快餐店結帳.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-3 快餐店結帳\obj\Debug\WindowsApplication1.Form1.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-3 快餐店結帳\obj\Debug\WindowsApplication1.Resources.resources
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (12)\範例程式檔\12-3 快餐店結帳\obj\Debug\快餐店結帳.vbproj.GenerateResource.Cache

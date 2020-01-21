@@ -1,0 +1,20 @@
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-1\bin\Debug\範例3-1.exe
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-1\bin\Debug\範例3-1.pdb
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-1\bin\Debug\範例3-1.xml
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-1\obj\Debug\範例3_1.Resources.resources
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-1\obj\Debug\範例3-1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-1\obj\Debug\範例3-1.exe
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-1\obj\Debug\範例3-1.xml
+C:\Documents and Settings\garfi\My Documents\Visual Studio 2008\Projects\chap3\範例3-1\obj\Debug\範例3-1.pdb
+J:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch3\範例3-1\obj\Debug\範例3-1.exe
+J:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch3\範例3-1\obj\Debug\範例3-1.xml
+J:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch3\範例3-1\obj\Debug\範例3-1.pdb
+J:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch3\範例3-1\bin\Debug\範例3-1.exe
+J:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch3\範例3-1\bin\Debug\範例3-1.pdb
+J:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch3\範例3-1\bin\Debug\範例3-1.xml
+J:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch3\範例3-1\obj\Debug\範例3_1.Resources.resources
+J:\1.  vb2012 book working\學會2008 CD\範例程式檔\ch3\範例3-1\obj\Debug\範例3-1.vbproj.GenerateResource.Cache
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (3)\範例程式檔\範例3-1\obj\Debug\範例3-1.exe
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (3)\範例程式檔\範例3-1\obj\Debug\範例3-1.xml
+C:\VBBOOK\學會寫程式VB2013CD\範例程式檔(prepare)\ch (3)\範例程式檔\範例3-1\obj\Debug\範例3-1.pdb
